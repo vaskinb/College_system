@@ -17,9 +17,11 @@ Admin's Options:
 - Register new teacher
 - Delete existing student
 - Delete existing teacher
+
 Teacher's options:
 -  Mark student register
 -  View register
+
 Student's Options:
 - View register
 - Download register
